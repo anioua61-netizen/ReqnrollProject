@@ -18,7 +18,7 @@ namespace EconnexionTestAuto.Actions.ApplicationActions
             LoginActions loginPage)
         {
             _driver = driver;
-            _loginPage = loginPage;
+           _loginPage = loginPage;
         }
 
         public void StartApplication()

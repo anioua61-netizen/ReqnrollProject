@@ -3,60 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\utils\\automationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\utils\\automationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\utils\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\utils\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\actions\\applicationactions\\loginactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\actions\\applicationactions\\loginactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\actions\\applicationactions\\econnexionappactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\actions\\applicationactions\\econnexionappactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\config\\testconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\config\\testconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\pages\\loginpage\\loginpagelocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\pages\\loginpage\\loginpagelocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\stepdefinitions\\loginstep\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\stepdefinitions\\loginstep\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\features\\featureslogin\\featurelogin.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\features\\featureslogin\\featurelogin.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\testdata\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\testdata\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\dto\\dtouser\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\dto\\dtouser\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|c:\\users\\ns\\desktop\\testauto\\econnexiontestauto\\econnexiontestauto\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A0B38305-48BC-5328-1ED5-CA06F01A50FA}|EconnexionTestAuto\\EconnexionTestAuto.csproj|solutionrelative:econnexiontestauto\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,181 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AutomationHelper.cs",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Utils\\AutomationHelper.cs",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\Utils\\AutomationHelper.cs",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Utils\\AutomationHelper.cs",
-              "RelativeToolTip": "EconnexionTestAuto\\Utils\\AutomationHelper.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAC8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T15:21:47.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "LoginPageLocators.cs",
               "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Pages\\LoginPage\\LoginPageLocators.cs",
               "RelativeDocumentMoniker": "EconnexionTestAuto\\Pages\\LoginPage\\LoginPageLocators.cs",
               "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Pages\\LoginPage\\LoginPageLocators.cs",
               "RelativeToolTip": "EconnexionTestAuto\\Pages\\LoginPage\\LoginPageLocators.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T15:06:03.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginActions.cs",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Actions\\ApplicationActions\\LoginActions.cs",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\Actions\\ApplicationActions\\LoginActions.cs",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Actions\\ApplicationActions\\LoginActions.cs",
-              "RelativeToolTip": "EconnexionTestAuto\\Actions\\ApplicationActions\\LoginActions.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T14:59:11.342Z",
+              "WhenOpened": "2026-05-30T22:04:39.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Hooks1.cs",
               "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Hooks\\Hooks1.cs",
               "RelativeDocumentMoniker": "EconnexionTestAuto\\Hooks\\Hooks1.cs",
               "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Hooks\\Hooks1.cs",
               "RelativeToolTip": "EconnexionTestAuto\\Hooks\\Hooks1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T14:53:21.546Z",
+              "WhenOpened": "2026-05-30T22:03:39.17Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EconnexionAppActions.cs",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Actions\\ApplicationActions\\EconnexionAppActions.cs",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\Actions\\ApplicationActions\\EconnexionAppActions.cs",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Actions\\ApplicationActions\\EconnexionAppActions.cs",
-              "RelativeToolTip": "EconnexionTestAuto\\Actions\\ApplicationActions\\EconnexionAppActions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T14:51:54.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Config\\appsettings.json",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\Config\\appsettings.json",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Config\\appsettings.json",
-              "RelativeToolTip": "EconnexionTestAuto\\Config\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-29T13:49:56.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TestConfig.cs",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Config\\TestConfig.cs",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\Config\\TestConfig.cs",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Config\\TestConfig.cs",
-              "RelativeToolTip": "EconnexionTestAuto\\Config\\TestConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T13:46:20.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\StepDefinitions\\LoginStep\\LoginStepDefinitions.cs",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\StepDefinitions\\LoginStep\\LoginStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\StepDefinitions\\LoginStep\\LoginStepDefinitions.cs",
-              "RelativeToolTip": "EconnexionTestAuto\\StepDefinitions\\LoginStep\\LoginStepDefinitions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T13:41:30.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FeatureLogin.feature",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Features\\FeaturesLogin\\FeatureLogin.feature",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\Features\\FeaturesLogin\\FeatureLogin.feature",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Features\\FeaturesLogin\\FeatureLogin.feature",
-              "RelativeToolTip": "EconnexionTestAuto\\Features\\FeaturesLogin\\FeatureLogin.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPddBPiNR1GMfx1/c36\u002Bx/29Ylf7NUrriiKIhhHYKgdMMgukXNEBSCFEInb3WKghYCIRBBOnjpoLOHBMsOQaBQQhc71EFrUwmUmdm1Nqddnd119tth9zc7s9hz\u002B36ez\u002Bf9PN8neFSdSwcFe7AdDwW3NF33VnWhwxdjDJ0CptIjOI496FrrLOFXTCpVz7dH1gHltAcn8D50J3mLK0uSkOhO8h40G5nzAyGcUKw0IWkBeA/HYO9ju/w4ccHezbu8M/aGy4fOC\u002BuzPhLjy9ljFVBOh/AJcsP5IfXledv6n/L8yLNeLUy4//CBKGaZXnzqm9Gg9YVyWkR5W/\u002BTLh38yve1H3z\u002B2xf\u002BXvrHcH7IX4tzZhbvZgBr19qpVL2RfWE/3LlfcebmWV0hp9aYVWvMulaf3hi2Nni/tht0QTOu\u002BHPhtmv1aY3mYss9PjBmct\u002BHDqcvtTT0awPchPHB7U4dmHRo6wtGurfYkn9coecJuZDzSnrQ6QOftQNua91gKt0h\u002Bj0IyY6BMfeW665MfO3k9Bm7N4/bPTju9StH9eX6VBo1aBC3KtXqqxsUqzfwZRT9MX/L4KYBISR\u002BnvvFT3evGu1NNeNKFoazSrX6\u002BgZQTkdxEc/AcH7I3NI9SUj0dfX6d3k\u002Bc84I8UXF2vVOAJxLRwSn8Rp6OnqrtYCiUvXbTOgEwFRhk\u002Bg54jG83dap4l2l6sU27RGArKYKh8X4He7gAuFjpcrMRtv/A8qFp4n7cFXSrHhzdqMD/AfXwLdp/4rZ5QAAAABJRU5ErkJggg==",
-              "WhenOpened": "2026-05-29T13:40:46.232Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JsonReader.cs",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Utils\\JsonReader.cs",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\Utils\\JsonReader.cs",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Utils\\JsonReader.cs",
-              "RelativeToolTip": "EconnexionTestAuto\\Utils\\JsonReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "LoginActions.cs",
+              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Actions\\ApplicationActions\\LoginActions.cs",
+              "RelativeDocumentMoniker": "EconnexionTestAuto\\Actions\\ApplicationActions\\LoginActions.cs",
+              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Actions\\ApplicationActions\\LoginActions.cs",
+              "RelativeToolTip": "EconnexionTestAuto\\Actions\\ApplicationActions\\LoginActions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T10:16:17.338Z",
+              "WhenOpened": "2026-05-29T14:59:11.342Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CalculatorStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "RelativeToolTip": "EconnexionTestAuto\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAABQwBYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T10:21:14.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserData.cs",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\DTO\\DTOUser\\UserData.cs",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\DTO\\DTOUser\\UserData.cs",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\DTO\\DTOUser\\UserData.cs",
-              "RelativeToolTip": "EconnexionTestAuto\\DTO\\DTOUser\\UserData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T10:20:10.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "user.json",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\TestData\\user.json",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\TestData\\user.json",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\TestData\\user.json",
-              "RelativeToolTip": "EconnexionTestAuto\\TestData\\user.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-29T10:18:31.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Calculator.feature",
-              "DocumentMoniker": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Features\\Calculator.feature",
-              "RelativeDocumentMoniker": "EconnexionTestAuto\\Features\\Calculator.feature",
-              "ToolTip": "C:\\Users\\NS\\Desktop\\TestAuto\\EconnexionTestAuto\\EconnexionTestAuto\\Features\\Calculator.feature",
-              "RelativeToolTip": "EconnexionTestAuto\\Features\\Calculator.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPddBPiNR1GMfx1/c36\u002Bx/29Ylf7NUrriiKIhhHYKgdMMgukXNEBSCFEInb3WKghYCIRBBOnjpoLOHBMsOQaBQQhc71EFrUwmUmdm1Nqddnd119tth9zc7s9hz\u002B36ez\u002Bf9PN8neFSdSwcFe7AdDwW3NF33VnWhwxdjDJ0CptIjOI496FrrLOFXTCpVz7dH1gHltAcn8D50J3mLK0uSkOhO8h40G5nzAyGcUKw0IWkBeA/HYO9ju/w4ccHezbu8M/aGy4fOC\u002BuzPhLjy9ljFVBOh/AJcsP5IfXledv6n/L8yLNeLUy4//CBKGaZXnzqm9Gg9YVyWkR5W/\u002BTLh38yve1H3z\u002B2xf\u002BXvrHcH7IX4tzZhbvZgBr19qpVL2RfWE/3LlfcebmWV0hp9aYVWvMulaf3hi2Nni/tht0QTOu\u002BHPhtmv1aY3mYss9PjBmct\u002BHDqcvtTT0awPchPHB7U4dmHRo6wtGurfYkn9coecJuZDzSnrQ6QOftQNua91gKt0h\u002Bj0IyY6BMfeW665MfO3k9Bm7N4/bPTju9StH9eX6VBo1aBC3KtXqqxsUqzfwZRT9MX/L4KYBISR\u002BnvvFT3evGu1NNeNKFoazSrX6\u002BgZQTkdxEc/AcH7I3NI9SUj0dfX6d3k\u002Bc84I8UXF2vVOAJxLRwSn8Rp6OnqrtYCiUvXbTOgEwFRhk\u002Bg54jG83dap4l2l6sU27RGArKYKh8X4He7gAuFjpcrMRtv/A8qFp4n7cFXSrHhzdqMD/AfXwLdp/4rZ5QAAAABJRU5ErkJggg==",
-              "WhenOpened": "2026-05-29T10:07:21.287Z"
             }
           ]
         }
